@@ -2,7 +2,7 @@
 //  squid_games_swiftUIUITests.swift
 //  squid games swiftUIUITests
 //
-//  Created by Szymon Trochimiak on 07/11/2021.
+//  Created by Beniamin Przychodzki on 07/11/2021.
 //
 
 import XCTest

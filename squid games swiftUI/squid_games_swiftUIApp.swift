@@ -2,7 +2,7 @@
 //  squid_games_swiftUIApp.swift
 //  squid games swiftUI
 //
-//  Created by Szymon Trochimiak on 07/11/2021.
+//  Created by Beniamin Przychodzki on 07/11/2021.
 //
 
 import SwiftUI

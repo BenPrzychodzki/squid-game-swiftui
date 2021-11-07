@@ -2,7 +2,7 @@
 //  PlayerModel.swift
 //  squid games swiftUI
 //
-//  Created by Szymon Trochimiak on 07/11/2021.
+//  Created by Beniamin Przychodzki on 07/11/2021.
 //
 
 import Foundation
